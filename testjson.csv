@@ -1,0 +1,4 @@
+"EffortData","EffortPageLetter"
+"""{""BoatUnit"": ""BFM"", ""ElectrofishingDuration"": 90, ""Volts"": 500.0, ""PulsesPerSecond"": 120.0, ""DutyCycleRange_Percent"": 27, ""Amps"": 12.0, ""StopNets"": false, ""NightElectrofishing"": false, ""SubmergedLight"": false}""","A"
+"""{""BoatUnit"": ""BA"", ""ElectrofishingDuration"": 90, ""Volts"": 500.0, ""PulsesPerSecond"": 120.0, ""DutyCycleRange_Percent"": 23, ""Amps"": 10.0, ""StopNets"": false, ""NightElectrofishing"": false, ""SubmergedLight"": false}""","B"
+"""{""BoatUnit"": ""BFM"", ""ElectrofishingDuration"": 90, ""Volts"": 500.0, ""PulsesPerSecond"": 120.0, ""DutyCycleRange_Percent"": 25, ""Amps"": 8.0, ""StopNets"": false, ""NightElectrofishing"": false, ""SubmergedLight"": false}""","A"
